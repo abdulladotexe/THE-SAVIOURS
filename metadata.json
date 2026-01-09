@@ -1,0 +1,7 @@
+{
+  "name": "THE SAVIOUR - Atomic Emergency Hub",
+  "description": "Atomic high-frequency emergency ambulance dispatch system connecting patients, traffic police, and hospitals with universal real-time grid synchronization.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
